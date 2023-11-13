@@ -45,3 +45,13 @@ Esta funcionalidade permite o cadastro de novos livros no sistema.
 
 - Execute o script `cadastro_livro.py` para adicionar um novo livro.
 - Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.
+
+# Relatório de Livros Disponíveis
+
+Gera um relatório dos livros atualmente disponíveis no acervo.
+
+## Instruções
+
+- Execute `relatorio_livros_disponiveis.py` para gerar o relatório.
+- O relatório incluirá informações como título, autor e disponibilidade.
+puj

@@ -1,7 +1,6 @@
 # atividade-colaborativa-2
 https://diagnostic-lemongrass-d00.notion.site/Atividade-Colaborativa-2-5f7cafdfcbe5431095bc8fdbdbb6288e
 
-csharpCopy code
 # Controle de Multas
 
 Registra e controla as multas aplicadas aos usuários por atraso na devolução.

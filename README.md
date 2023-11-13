@@ -18,4 +18,11 @@ Integra o sistema com um serviço de pagamento para cobrança de multas.
 - Configure as credenciais do sistema de pagamento em `integracao_pagamento.py`.
 - Utilize `integracao_pagamento.py` para processar pagamentos de multas.
 
+# Interface Gráfica do Usuário (UI/UX)
 
+Desenvolve a interface gráfica para melhorar a experiência do usuário.
+
+## Instruções
+
+- A pasta `ui_ux` contém os arquivos relacionados à interface.
+- Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.

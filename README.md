@@ -20,6 +20,14 @@ Integra o sistema com um serviço de pagamento para cobrança de multas.
 
 # Interface Gráfica do Usuário (UI/UX)
 
+# Devolução de Livros
+
+Permite que os usuários devolvam os livros emprestados.
+
+## Instruções
+
+- Execute `devolucao_livro.py` para registrar a devolução de um livro.
+- Informe o ID do livro e do usuário para concluir o processo.
 Desenvolve a interface gráfica para melhorar a experiência do usuário.
 
 ## Instruções

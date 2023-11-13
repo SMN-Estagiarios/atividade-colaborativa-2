@@ -8,3 +8,14 @@ Registra os empréstimos de livros aos usuários.
 
 - Utilize o script `registro_emprestimo.py` para registrar empréstimos.
 - Informe o ID do livro e o ID do usuário para completar o registro.
+
+# Integração com Sistema de Pagamento para Multas
+
+Integra o sistema com um serviço de pagamento para cobrança de multas.
+
+## Instruções
+
+- Configure as credenciais do sistema de pagamento em `integracao_pagamento.py`.
+- Utilize `integracao_pagamento.py` para processar pagamentos de multas.
+
+

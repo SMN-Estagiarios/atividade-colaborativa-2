@@ -26,3 +26,13 @@ Desenvolve a interface gráfica para melhorar a experiência do usuário.
 
 - A pasta `ui_ux` contém os arquivos relacionados à interface.
 - Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
+
+# Notificações de Empréstimo por Email
+
+Envia notificações por e-mail aos usuários após um empréstimo bem-sucedido.
+
+## Instruções
+
+- `notificacao_email.py` gerencia o envio de notificações por e-mail.
+- Certifique-se de configurar as credenciais do servidor de e-mail.
+

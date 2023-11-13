@@ -54,7 +54,6 @@ Gera recomendações personalizadas de livros com base no histórico de leitura 
 
 - Execute `recomendacoes_livros.py` para obter recomendações personalizadas.
 - O sistema analisa o histórico de empréstimos e sugere livros com base nos interesses do usuário.
-=======
 # Relatório de Livros Disponíveis
 
 Gera um relatório dos livros atualmente disponíveis no acervo.
@@ -74,4 +73,14 @@ Registra e controla as multas aplicadas aos usuários por atraso na devolução.
 - Utilize `controle_multas.py` para gerenciar as multas.
 - Informe o ID do usuário e do livro para aplicar uma multa.
 
+=======
+
+# Pesquisa de Livros por Título
+
+Permite aos usuários pesquisar livros com base no título.
+
+## Instruções
+
+- Execute `pesquisa_por_titulo.py` para buscar livros por título.
+- Informe o título desejado para obter resultados relevantes.
 

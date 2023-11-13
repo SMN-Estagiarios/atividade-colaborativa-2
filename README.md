@@ -34,3 +34,14 @@ Desenvolve a interface gráfica para melhorar a experiência do usuário.
 
 - A pasta `ui_ux` contém os arquivos relacionados à interface.
 - Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
+# atividade-colaborativa-2
+https://diagnostic-lemongrass-d00.notion.site/Atividade-Colaborativa-2-5f7cafdfcbe5431095bc8fdbdbb6288e
+
+# Cadastro de Livros
+
+Esta funcionalidade permite o cadastro de novos livros no sistema.
+
+## Instruções
+
+- Execute o script `cadastro_livro.py` para adicionar um novo livro.
+- Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.

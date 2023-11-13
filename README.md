@@ -69,3 +69,15 @@ puj
 >>>>>>> 02406ce809eee0ee352900a367e1d0b084f5882c
 =======
 >>>>>>> 1ae6afb61356a76695c165d6213a846955ab6031
+
+csharpCopy code
+# Controle de Multas
+
+Registra e controla as multas aplicadas aos usuários por atraso na devolução.
+
+## Instruções
+
+- Utilize `controle_multas.py` para gerenciar as multas.
+- Informe o ID do usuário e do livro para aplicar uma multa.
+
+

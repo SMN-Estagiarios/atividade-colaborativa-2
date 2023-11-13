@@ -1,6 +1,5 @@
 # atividade-colaborativa-2
 https://diagnostic-lemongrass-d00.notion.site/Atividade-Colaborativa-2-5f7cafdfcbe5431095bc8fdbdbb6288e
-<<<<<<< HEAD
 # Registro de Empréstimos
 
 Registra os empréstimos de livros aos usuários.
@@ -18,7 +17,7 @@ Integra o sistema com um serviço de pagamento para cobrança de multas.
 
 - Configure as credenciais do sistema de pagamento em `integracao_pagamento.py`.
 - Utilize `integracao_pagamento.py` para processar pagamentos de multas.
-
+- apenas código fictício
 # Interface Gráfica do Usuário (UI/UX)
 
 ## Instruções
@@ -74,7 +73,6 @@ Registra e controla as multas aplicadas aos usuários por atraso na devolução.
 - Utilize `controle_multas.py` para gerenciar as multas.
 - Informe o ID do usuário e do livro para aplicar uma multa.
 
-=======
 
 # Pesquisa de Livros por Título
 
@@ -85,8 +83,6 @@ Permite aos usuários pesquisar livros com base no título.
 - Execute `pesquisa_por_titulo.py` para buscar livros por título.
 - Informe o título desejado para obter resultados relevantes.
 
-=======
-
 # Reservas de Livros
 
 Permite que os usuários reservem livros que estão atualmente emprestados.
@@ -95,4 +91,3 @@ Permite que os usuários reservem livros que estão atualmente emprestados.
 
 - Utilize `reserva_livro.py` para fazer uma reserva.
 - Informe o ID do livro desejado e do usuário para realizar a reserva.
->>>>>>> feature-reserva-livros

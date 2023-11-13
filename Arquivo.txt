@@ -1,1 +1,3 @@
 Atualizando o arquivo para o próximo passo.
+
+Mais uma linha de comando.

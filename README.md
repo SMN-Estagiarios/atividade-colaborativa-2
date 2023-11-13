@@ -20,6 +20,13 @@ Integra o sistema com um serviço de pagamento para cobrança de multas.
 
 # Interface Gráfica do Usuário (UI/UX)
 
+## Instruções
+
+- A pasta `ui_ux` contém os arquivos relacionados à interface.
+- Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
+# atividade-colaborativa-2
+https://diagnostic-lemongrass-d00.notion.site/Atividade-Colaborativa-2-5f7cafdfcbe5431095bc8fdbdbb6288e
+
 # Devolução de Livros
 
 Permite que os usuários devolvam os livros emprestados.
@@ -30,13 +37,6 @@ Permite que os usuários devolvam os livros emprestados.
 - Informe o ID do livro e do usuário para concluir o processo.
 Desenvolve a interface gráfica para melhorar a experiência do usuário.
 
-## Instruções
-
-- A pasta `ui_ux` contém os arquivos relacionados à interface.
-- Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
-# atividade-colaborativa-2
-https://diagnostic-lemongrass-d00.notion.site/Atividade-Colaborativa-2-5f7cafdfcbe5431095bc8fdbdbb6288e
-
 # Cadastro de Livros
 
 Esta funcionalidade permite o cadastro de novos livros no sistema.
@@ -46,7 +46,6 @@ Esta funcionalidade permite o cadastro de novos livros no sistema.
 - Execute o script `cadastro_livro.py` para adicionar um novo livro.
 - Certifique-se de incluir todos os detalhes necessários, como título, autor e ISBN.
 
-<<<<<<< HEAD
 # Recomendações de Livros
 
 Gera recomendações personalizadas de livros com base no histórico de leitura do usuário.
@@ -65,12 +64,7 @@ Gera um relatório dos livros atualmente disponíveis no acervo.
 - Execute `relatorio_livros_disponiveis.py` para gerar o relatório.
 - O relatório incluirá informações como título, autor e disponibilidade.
 puj
-<<<<<<< HEAD
->>>>>>> 02406ce809eee0ee352900a367e1d0b084f5882c
-=======
->>>>>>> 1ae6afb61356a76695c165d6213a846955ab6031
 
-csharpCopy code
 # Controle de Multas
 
 Registra e controla as multas aplicadas aos usuários por atraso na devolução.

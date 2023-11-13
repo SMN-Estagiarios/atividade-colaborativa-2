@@ -7,3 +7,7 @@ const cadastrar_livro = (titulo, autor, isbn) => {
 
   return book;
 };
+
+const cadastro_geral = () => {
+  cadastrar_livro();
+};

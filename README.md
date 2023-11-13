@@ -26,3 +26,13 @@ Desenvolve a interface gráfica para melhorar a experiência do usuário.
 
 - A pasta `ui_ux` contém os arquivos relacionados à interface.
 - Utilize ferramentas de design e frameworks adequados para melhorar a usabilidade.
+
+# Relatório de Livros Disponíveis
+
+Gera um relatório dos livros atualmente disponíveis no acervo.
+
+## Instruções
+
+- Execute `relatorio_livros_disponiveis.py` para gerar o relatório.
+- O relatório incluirá informações como título, autor e disponibilidade.
+puj
